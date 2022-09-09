@@ -1,3 +1,7 @@
+@tailwind base;   /* Add directives for each of Tailwind's layers. */ 
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
